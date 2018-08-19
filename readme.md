@@ -4,10 +4,10 @@
 
 CONTENT CHANGES IN INDEX.HTML
 
-1. Changing the page title to your name (or a title of your choosing)
-2. Changing the content of the h1 to match your name
-3. Changing the content of the p to match a description or phrase or motto
-4. Changing the Facebook, Twitter, Github links to point to your own pages. (If you don't have a twitter delete that link). Hint: You will have to change the href attribute value to change where the link points. If you have other links you can add those.
+- Changing the page title to your name (or a title of your choosing)
+- Changing the content of the h1 to match your name
+- Changing the content of the p to match a description or phrase or motto
+- Changing the Facebook, Twitter, Github links to point to your own page- (If you don't have a twitter delete that link). Hint: You will have to change the href attribute value to change where the link points. If you have other links you can add those.
 
 STYLE / APPEARANCE CHANGES IN STYLE.CSS
 
@@ -15,15 +15,17 @@ Changing the colors scheme of the page to something you personally like. Go to A
 
 Change the following elements' colors:
 
-1. body: BACKGROUND COLOR
-2. .profile-link: COLOR
-3. a:hover, a:visited:hover : COLOR
-4. a:visited COLOR
-5. .glumac COLOR
-6. .square-one .inner COLOR
-7. .square-two .inner COLOR
-8. .square-three .inner COLOR
+- body: BACKGROUND COLOR
+- .profile-link: COLOR
+- a:hover, a:visited:hover : COLOR
+- a:visited COLOR
+- .glumac COLOR
+- .square-one .inner COLOR
+- .square-two .inner COLOR
+- .square-three .inner COLOR
 
 Bonus1: Find a different fong on google fonts and change the appearance of text on this page
+
 Bonus2: Find a way to have the email link open gmail with an email open to yourself
+
 Bonus3: Further adjust the styling and content of the page as your heart desires.
