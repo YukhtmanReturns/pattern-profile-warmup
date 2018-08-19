@@ -19,7 +19,6 @@ Change the following elements' colors:
 - .profile-link: COLOR
 - a:hover, a:visited:hover : COLOR
 - a:visited COLOR
-- .glumac COLOR
 - .square-one .inner COLOR
 - .square-two .inner COLOR
 - .square-three .inner COLOR
